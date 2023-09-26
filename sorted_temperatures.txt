@@ -1,0 +1,3 @@
+Tokyo 24°C
+Paris 18°C
+London 14°C
