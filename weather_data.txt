@@ -1,0 +1,4 @@
+New York: Temperature +16°C, Wind Speed 
+Los Angeles: Temperature +23°C, Wind Speed 
+Hong Kong: Temperature +28°C, Wind Speed 
+San Fernando del Valle de Catamarca: Temperature +18°C, Wind Speed 
